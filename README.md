@@ -1,8 +1,14 @@
-# project-utramig
+# Projeto Para Utramig
 
 Desenvolvendo projeto final da Utramig, utilizando Vue.js.
 O projeto é desenvolvido conforme aprendo a utilizar o framework
+O objetivo é construir uma aplicação que permita que técnicos autônomos gerenciem seus serviços de reparo, que usuários com hardware defeituoso, encontrem técnicos a disposição, com boa qualificação. 
+O usuário receberá deve updates conforme o técnico desenvolva o reparo. 
+Estrutura do front-end da página inicial está pronta. Faltando dashboard para o técnico, área do usuário e formulários de login e cadastro. 
+
 > A Vue.js project
+
+Instale o nodejs, baixe ou clone o código e siga os seguintes passos para executa-lo:
 
 ## Build Setup
 
