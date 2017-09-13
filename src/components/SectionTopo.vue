@@ -14,7 +14,7 @@
             </div>
           <div class="row">
               <div class="col-lg-12 text-center">
-                <button type="button" name="button" class="btn btn-primary btn-lg">Cadastre-se</button>
+                <button type="button" name="button" class="btn btn-primary btn-lg">{{$route.params.name}}</button>
               </div>
           </div>
       </div>
