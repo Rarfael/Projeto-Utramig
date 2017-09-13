@@ -8,22 +8,22 @@ Estrutura do front-end da página inicial está pronta. Faltando dashboard para 
 
 > A Vue.js project
 
-Instale o nodejs, baixe ou clone o código e siga os seguintes passos para executa-lo:
 
-## Build Setup
+### Configurando
 
 ``` bash
-# install dependencies
+
+1- Instale o nodejs 
+
+2 - baixe ou clone o projeto
+
+3 - No terminal, dentro da pasta do projeto, execute os seguintes comandos:
+
+# instala as dependencias
 npm install
 
-# serve with hot reload at localhost:8080
+# Abrir o server com hot reload no localhost:8080
 npm run dev
-
-# build for production with minification
-npm run build
-
-# build for production and view the bundle analyzer report
-npm run build --report
 ```
 
-For detailed explanation on how things work, checkout the [guide](http://vuejs-templates.github.io/webpack/) and [docs for vue-loader](http://vuejs.github.io/vue-loader).
+Para mais detalhes, leia o guia [guide](http://vuejs-templates.github.io/webpack/) and [docs for vue-loader](http://vuejs.github.io/vue-loader).
