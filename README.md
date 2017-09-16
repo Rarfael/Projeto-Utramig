@@ -26,4 +26,4 @@ npm install
 npm run dev
 ```
 
-Para mais detalhes, leia o guia [guide](http://vuejs-templates.github.io/webpack/) and [docs for vue-loader](http://vuejs.github.io/vue-loader).
+Para mais detalhes, leia o [guia](http://vuejs-templates.github.io/webpack/) and [docs para vue-loader](http://vuejs.github.io/vue-loader).
